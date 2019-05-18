@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="arktweetnlp/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/arktweetnlp"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Yamil/eclipse/committers-mars2/eclipse/weka_mineria/weka.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Yamil/eclipse/committers-mars2/eclipse/json_mineria/gson-2.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Yamil/eclipse/committers-mars2/eclipse/twet_mineria/lib/ark-tweet-nlp-0.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Yamil/eclipse/committers-mars2/eclipse/twet_mineria/lib/pljava.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Yamil/eclipse/committers-mars2/eclipse/twet_mineria/gp-ark-tweet-nlp.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
